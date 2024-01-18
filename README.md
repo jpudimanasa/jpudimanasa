@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there ! I am @jpudimanasa (Manasa) 👋
 
-<!--
-**jpudimanasa/jpudimanasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Indian living in Auckland,New Zealand. 
 
-Here are some ideas to get you started:
+As an aspiring Full Stack Software Developer, I am passionate about building seamless, end-to-end software solutions.I am currently working on mastering the full spectrum of web development. My enthusiasm for coding is matched by my eagerness to contribute to innovative projects and my commitment to continual learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to build things with Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
+
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/manasa-jagarlapudi-16329a177/)
+  
+- 😄 Pronouns: She/Her
+  
+- ⚡ Fun fact: I like challenging myself and have done Sky Diving(16,000 ft) & Bungy Jumping (40m). 
+
