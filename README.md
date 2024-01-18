@@ -16,7 +16,6 @@ I like to build things with Docker, Python, TypeScript (and JavaScript), modern 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-[![Vue](https://img.shields.io/badge/JavaScript%20framework-Vue-4FC08D?style=flat-square&logo=javascript&logoColor=white)](https://vuejs.org/)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
